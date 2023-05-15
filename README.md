@@ -16,13 +16,13 @@
 ## Sobre 
 O projeto consiste na resolução de 4 exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
 
-* Leetcode 59 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+* Leetcode 59 - [Spiral Matrix II](/Spiral-Matrix-II/)
     
-* LeetCode 1323 - [Maximum 69 Number]()
+* LeetCode 1323 - [Maximum 69 Number](/Maximum-69-Number/)
     
-* LeetCode 1334 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](/Find the City With the Smallest Number of Neighbors at a Threshold Distance/)
+* LeetCode 1334 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](/Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance/)
     
-* LeetCode 1584 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+* LeetCode 1584 - [Min Cost to Connect All Points](/Min-Cost-to-Connect-All-Points/)
     
 
 ## Instalação 
