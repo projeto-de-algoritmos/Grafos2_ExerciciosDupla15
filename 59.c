@@ -39,7 +39,7 @@ void generateMatrix(int n) {
     printf("Matriz Espiral Gerada:\n\n");
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
-            printf("%-3d ", matrix[i][j]); // %-3d imprime com largura de 3 campos, fica idêntico a uma matriz como conhecemos
+            printf("%-3d ", matrix[i][j]); // %-3d imprime com largura de 3 campos, fica idÃªntico a uma matriz como conhecemos
         }
         printf("\n");
     }
