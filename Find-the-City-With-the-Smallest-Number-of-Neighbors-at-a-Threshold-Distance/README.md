@@ -1,1 +1,1 @@
-![image](assets/1334.jpeg)
+![image](/assets/1334.jpeg)

@@ -1,1 +1,1 @@
-![image](assets/1584.png)
+![image](/assets/1584.png)
