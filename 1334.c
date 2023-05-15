@@ -46,7 +46,7 @@ int findTheCity(int n, Edge* edges, int edgeCount, int distanceThreshold) {
     int minNoOfCity = INT_MAX;
     int res = -1;
 
-    /*contabiliza o total de cidades que est„o dentro do alcance (seguindo as distancias)
+    /*contabiliza o total de cidades que est√£o dentro do alcance (seguindo as distancias)
        para cada cidade                                                            */
     for (int i = 0; i < n; i++) {
         int noCityCount = 0;
