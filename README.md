@@ -41,8 +41,22 @@ O projeto consiste na resolução de 4 exercícos do site [LeetCode](https://lee
 ## Instalação 
 **Linguagem**: C e C++<br>
 
-Não é necessária instalação. 
-
+### **Comandos Necessários**
+```
+$ sudo apt install gcc
+```
 ## Uso 
+### C
 
-O próprio site [LeetCode](https://leetcode.com/problemset/all/) possui editor de texto com compilador em cada problema.
+* Para compilar os problemas em C:
+```
+$ gcc -o NomeCodigo NomeCodigo.c
+```
+* Após a compilação, para executar os problemas:
+```
+$ ./NomeCodigo
+```
+
+### C++
+
+O próprio site [LeetCode](https://leetcode.com/problemset/all/) possui editor de texto com compilador para C++.
