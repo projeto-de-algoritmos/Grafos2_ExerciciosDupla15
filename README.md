@@ -14,41 +14,22 @@
 | 19/0116498  |  Rodrigo Braz Ferreira Gontijo |
 
 ## Sobre 
-O projeto consiste na resolução de x exercícos dos sites [y]().
+O projeto consiste na resolução de 4 exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
 
+* Leetcode 59 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+    * [.c]() 
+* LeetCode 1323 - [Maximum 69 Number]()
+    * [.c]() 
+* LeetCode 1334 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+    * [.c]() 
+* LeetCode 1584 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+    * [.cpp]() 
 
 ## Instalação 
 **Linguagem**: C e C++<br>
 
-### **Comandos Necessários**
-```
-$ sudo apt update
-$ sudo apt install build-essential
-```
 ## Uso 
 
-### Compilador Online
+### LeetCode
 
-* O site [Programiz](https://www.programiz.com/c-programming/online-compiler/) possui compilador e output para códigos em C e C++.
-
-### C
-
-* Para compilar os problemas em C:
-```
-$ gcc -o NomeCodigo NomeCodigo.c
-```
-* Após a compilação, para executar os problemas:
-```
-$ ./NomeCodigo
-```
-
-### C++
-
-* Para compilar os problemas em C++:
-```
-$ g++ NomeCodigo NomeCodigo.cpp 
-```
-* Após a compilação, para executar os problemas:
-```
-$ ./NomeCodigo
-```
+* O próprio site [LeetCode](https://leetcode.com/problemset/all/) possui editor de texto com compilador em cada problema.
