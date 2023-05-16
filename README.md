@@ -3,9 +3,9 @@
 **Número da Lista**: 15<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
 
-[Apresentação no YouTube]()
+[Apresentação no YouTube](https://www.youtube.com/watch?v=gTahHfxlTv4)
 
-[Arquivo mp4 da apresentação]()
+[Arquivo mp4 da apresentação](apresentacao-grafos2.mp4)
 
 ## Alunos
 |Matrícula | Aluno |
