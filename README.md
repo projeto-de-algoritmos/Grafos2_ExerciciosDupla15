@@ -62,7 +62,11 @@ $ ./NomeCodigo
 
 ### C++
 
-O próprio site [LeetCode](https://leetcode.com/problemset/all/) possui editor de texto com compilador para C++.
+É necessário, na plataforma LeetCode, selecionar a linguagem C++.<br>
+
+Depois, copiar o código e colá-lo no editor de texto do LeetCode.<br>
+
+Agora, dê o comando "Run".
 
 ## Outros 
 
