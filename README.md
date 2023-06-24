@@ -3,10 +3,6 @@
 **Número da Lista**: 15<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
 
-[Apresentação no YouTube](https://www.youtube.com/watch?v=gTahHfxlTv4)
-
-[Arquivo mp4 da apresentação](apresentacao-grafos2.mp4)
-
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
@@ -16,17 +12,17 @@
 ## Sobre 
 O projeto consiste na resolução de 4 exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
 
-* Leetcode 59 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-    * [Código](/Spiral-Matrix-II/59.c) 
+### Leetcode 59 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+Código: [ACESSO](/codigos/59.c)<br>
     
-* LeetCode 1323 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
-    * [Código](/Maximum-69-Number/1323.c) 
+### LeetCode 1323 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+Código: [ACESSO](/codigos/1323.c)<br>
     
-* LeetCode 1334 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
-    * [Código](/Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance/1334.c) 
+### LeetCode 1334 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+Código: [ACESSO](/codigos/1334.c)<br>
 
-* LeetCode 1584 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
-    * [Código](/Min-Cost-to-Connect-All-Points/1584.cpp) 
+### LeetCode 1584 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+Código: [ACESSO](/codigos/1584.cpp)<br>
 
 ## Screenshots
 Leetcode 59 - Spiral Matrix II<br>
@@ -67,3 +63,9 @@ $ ./NomeCodigo
 ### C++
 
 O próprio site [LeetCode](https://leetcode.com/problemset/all/) possui editor de texto com compilador para C++.
+
+## Outros 
+
+Arquivo do vídeo: [ACESSO](apresentacao-grafos2.mp4).
+
+Vídeo no Youtube: [ACESSO](https://www.youtube.com/watch?v=gTahHfxlTv4). 
