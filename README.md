@@ -29,14 +29,21 @@ O projeto consiste na resolução de 4 exercícos do site [LeetCode](https://lee
     * [Código](/Min-Cost-to-Connect-All-Points/1584.cpp) 
 
 ## Screenshots
-* Leetcode 59 - [Spiral Matrix II](/Spiral-Matrix-II/)
-    
-* LeetCode 1323 - [Maximum 69 Number](/Maximum-69-Number/)
-    
-* LeetCode 1334 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](/Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance/)
+Leetcode 59 - Spiral Matrix II<br>
 
-* LeetCode 1584 - [Min Cost to Connect All Points](/Min-Cost-to-Connect-All-Points/)
+![image](/assets/59.jpeg)
+  
+LeetCode 1323 - Maximum 69 Number<br>
 
+![image](/assets/1323.jpeg)
+
+LeetCode 1334 - Find the City With the Smallest Number of Neighbors at a Threshold Distance<br>
+
+![image](/assets/1334.jpeg)
+
+LeetCode 1584 - Min Cost to Connect All Points<br>
+
+![image](/assets/1584.png)
 
 ## Instalação 
 **Linguagem**: C e C++<br>
